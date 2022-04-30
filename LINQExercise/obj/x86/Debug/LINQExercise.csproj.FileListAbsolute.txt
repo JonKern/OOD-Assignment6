@@ -1,0 +1,16 @@
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\bin\Debug\Customers.xml
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\bin\Debug\LINQExercise.exe
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\bin\Debug\LINQExercise.pdb
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\obj\x86\Debug\LINQExercise.csprojResolveAssemblyReference.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\obj\x86\Debug\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\obj\x86\Debug\LINQExercise.exe
+C:\Users\jsjenkins\Documents\Visual Studio 2017\Projects\LINQExercises\LINQExercise\obj\x86\Debug\LINQExercise.pdb
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\bin\Debug\Customers.xml
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\bin\Debug\LINQExercise.exe.config
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\bin\Debug\LINQExercise.exe
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\bin\Debug\LINQExercise.pdb
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\obj\x86\Debug\LINQExercise.csproj.AssemblyReference.cache
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\obj\x86\Debug\LINQExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\obj\x86\Debug\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\obj\x86\Debug\LINQExercise.exe
+C:\Users\16054\Documents\DSU\2022 - Spring\Object Oriented Design\Assignments\Assignment 6\LINQw1through14\LINQExercise\obj\x86\Debug\LINQExercise.pdb
